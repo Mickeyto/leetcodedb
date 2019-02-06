@@ -1,2 +1,2 @@
 # leetcodedb
-Leetcode 题库
+Leetcode 题库：SQLite3
